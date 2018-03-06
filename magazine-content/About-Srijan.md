@@ -1,7 +1,7 @@
-/*
-Writer - Jatin
-needs update
-*/
+---
+author: Jatin
+status: needs update
+---
 
 Srijan.
 Srijan means creation.
