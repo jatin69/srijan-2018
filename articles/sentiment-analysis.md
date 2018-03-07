@@ -1,6 +1,6 @@
-/*
-Writer - Manisha - MCA 1st year
-*/
+---
+writer: Manisha - MCA 1st year
+---
 
 # Sentiment Analysis
 

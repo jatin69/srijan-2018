@@ -1,7 +1,7 @@
-/*
-Writer - Jatin Rohilla - MCA 1st year
-Editor - Ashita 
-*/
+---
+Writer: Jatin
+Editor: Ashita 
+---
 
 # The Future of AI
 Challenges and their solutions

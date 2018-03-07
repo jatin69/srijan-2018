@@ -1,6 +1,8 @@
-/*
-Writer - Rajni Dabas - MSc 1st year
-*/
+---
+writer: Rajni Dabas - MSc 1st year
+Editor: -
+---
+
 
 ## Artificial Intelligence - AId to Health Care
 

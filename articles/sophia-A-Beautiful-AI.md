@@ -1,6 +1,6 @@
-/*
-Writer - Thomas Kuki Ningshen - MSc 1st year
-*/
+---
+writer: Thomas Kuki Ningshen - MSc 1st year
+---
 
 # SOPHIA- A BEAUTIFUL AI?
 

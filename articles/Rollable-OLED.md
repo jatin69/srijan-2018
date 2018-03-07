@@ -1,6 +1,6 @@
-/*
-Writer - Shreshth Saxena - MSc 1st year
-*/
+---
+writer: Shreshth Saxena - MSc 1st year
+---
 
 # That’s how they ROLL
 

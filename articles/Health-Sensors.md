@@ -1,6 +1,6 @@
-/*
-Writer - DIVYA AGARWAL, MCA 1ST YEAR
-*/
+---
+writer: DIVYA AGARWAL, MCA 1ST YEAR
+---
 
 # HEALTH SENSORS
 

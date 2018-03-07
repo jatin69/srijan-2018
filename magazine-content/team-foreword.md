@@ -1,4 +1,8 @@
-TEAM FOREWORD
+---
+author: Ashita
+status: needs update
+---
 
+# TEAM FOREWORD
 
 We, The Editorial Team, proudly present another interesting edition of our Department Magazine 'SRIJAN'. We have worked very hard and have covered some exciting topics that your geeky minds have wondered about. Our aim is not only to bring you a few articles about new technologies or all the scientific mess, of course you can google all that. Its beyond this. First and foremost, SRIJAN reflects the hardwork and team spirit of our students. Secondly, we aim at bringing you the fine thoughts of this generation on the recent technological advancements happening across the globe. Thirdly, it’s like a perfect desert for all the junior scientists to munch upon. Where would you get all this? With its carefully curated articles, SRIJAN covers topics like Artificial intelligence, 5G Technology, Facial Recognition, Wireless charging, Drones. We are sure you are already leafing through the magazine. We hope you find it as exciting as we think it is and it tickles your grey cells. 

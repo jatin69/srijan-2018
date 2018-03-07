@@ -1,7 +1,7 @@
-/*
-Writer - Jatin Rohilla - MCA 1st year
-Editor - Ashita
-*/
+---
+writer: Jatin Rohilla - MCA 1st year
+Editor: Ashita
+---
 
 # Neuromorphic Computing
 

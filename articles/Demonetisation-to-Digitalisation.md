@@ -1,6 +1,6 @@
-/*
-Writer - Ashita - MSc 1st year
-*/
+---
+writer: Ashita
+---
 
 # Demonetisation to Digitalisation 
 

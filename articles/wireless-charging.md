@@ -1,6 +1,6 @@
-/*
-Writer - Sadaf Afsar - MCA 2nd year
-*/
+---
+writer: Sadaf Afsar: MCA 2nd year
+---
 
 # WIRELESS CHARGING
  
