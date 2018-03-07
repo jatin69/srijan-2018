@@ -1,6 +1,5 @@
 ---
 writer: Rajni Dabas - MSc 1st year
-Editor: -
 ---
 
 
