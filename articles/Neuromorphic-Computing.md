@@ -32,4 +32,4 @@ This makes the chip up to 1,000 times more energy-efficient than general purpose
 
 The difference between classical systems and neuromorphic ones is just like the difference between Morse code and speech. The former encodes data using just dots, and dashes, making meanings easy to understand but the message is lengthy to communicate. Speech, however, can be difficult to interpret but each individual utterance holds much more data. Thus, the latter is very efficient. 
 
-Thus, Neuromorphic Computing is the new power wave in the field of Artificial Intelligence and it can probably compute faster than the human brain!
+Thus, Neuromorphic Computing is the new power wave in the field of Artificial Intelligence and it can probably compute faster than the human brain.
