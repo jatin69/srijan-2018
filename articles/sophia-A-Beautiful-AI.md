@@ -1,5 +1,7 @@
 ---
 writer: Thomas Kuki Ningshen - MSc 1st year
+status : Relevance doubtful, need another pair of eyes
+content: Factual stats about sophia
 ---
 
 # SOPHIA- A BEAUTIFUL AI?
