@@ -1,7 +1,12 @@
 ---
-Writer: Jatin 
-Editor: Jatin
-Status: Review Complete
+Question ? | Answer ! |
+--- | --- |
+writer | Jatin
+Editor | Jatin
+status | Review Complete
+Plagiarism: Low 22% [Report link](./plag_reports/plag_era_of_containerization.pdf)
+Content: Journey From virtualization to Containerization
+Verdict: Plag needs work. Good Candidate.
 ---
 
 # The Era of Containerization

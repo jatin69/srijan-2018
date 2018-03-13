@@ -1,6 +1,12 @@
 ---
-writer: Shreshth Saxena - MSc 1st year
-Editor: Ashita
+Question ? | Answer ! |
+--- | --- |
+writer | Shreshth Saxena - MSc 1st year
+Editor | Ashita
+Status | Review Complete
+Plagiarism | None 0% [Report link](./plag_reports/plag_rollable_oled.pdf)
+Content | Tvs at CES, rollable OLED
+Verdict | Good Candidate. 
 ---
 
 # That’s how they ROLL

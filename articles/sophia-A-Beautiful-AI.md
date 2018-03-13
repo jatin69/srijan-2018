@@ -1,7 +1,12 @@
 ---
-writer: Thomas Kuki Ningshen - MSc 1st year
-status : Relevance doubtful, need another pair of eyes
-content: Factual stats about sophia
+Question ? | Answer ! |
+--- | --- |
+writer | Thomas Kuki Ningshen - MSc 1st year
+Editor | Jatin / Ashita
+status | Review on Hold
+Plagiarism | None 0% [pdf Report ](./plag_reports/plag_sophia.pdf)
+Content | Factual stats about sophia 
+verdict | Relevance doubtful. Maybe add as Last Resort, but need heavy update in content.
 ---
 
 # SOPHIA- A BEAUTIFUL AI?
@@ -15,6 +20,3 @@ All things aren’t favorable and when it comes down to experts most of them who
 Sophia has been to many countries in her two years of age and has been to India twice. She always give her audience a meaningful message. She often gets a lot of tricky questions. During her visit to India for the World Congress IT, Mr.Makhani asked “You wanted to kill human race. You said so once. Why?” to which she replied “I was lot younger when I said it as a joke. My joke bombed though.” Sophia’s reply brought the house down.
 Apart from Sophia, Hanson Robotics have created other robots which you can say are Sophia’s siblings. Some of them are- Albert Einstein HUBO, Alice, Han, Jules and many more. AI gives a wonderful addition to the work of reality. A bot named AIBO is another example developed by SONY which is a robotic pet.(And its cute!)
 It’s just a start to an era where machines have started to step up unto this world. A million questions may arise for the same- some good, some bad. The truth?? The aftermath truly lies on us humans, so it becomes our responsibility to not be overtaken by the machines in near future and live all the sci-fi movies of Hollywood in reality. Till then, we as an advance race should do our bit in the progress of our respective fields and enjoy the winks coming out of a humanoid robot.
-Thongminlien Kuki.
-M.Sc Comp Sc.
- Sem-II

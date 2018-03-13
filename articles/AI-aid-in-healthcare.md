@@ -1,7 +1,12 @@
 ---
-writer: Rajni Dabas - MSc 1st year
-Editor: Jatin
-status: Need work - sentence structure, grammar, actual important content
+Question ? | Answer ! |
+--- | --- |
+writer | Rajni Dabas - MSc 1st year
+Editor | Jatin
+status | Under Review
+Plagiarism | Moderate 36% [Report link](./plag_reports/plag_aid_in_healthcare.pdf)
+Content | Need work - plag, sentence structure, grammar, actual important content
+Verdict | Remove Plag. Finish Review. Good Candidate. 
 ---
 
 ## Artificial Intelligence - AId to Health Care

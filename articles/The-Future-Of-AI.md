@@ -1,6 +1,12 @@
 ---
-Writer: Jatin
-Editor: Ashita 
+Question ? | Answer ! |
+--- | --- |
+writer | Jatin
+Editor | Ashita
+status | Review Pending
+Plagiarism | None 0% [Report link](./plag_reports/plag_the_future_of_AI.pdf)
+Content | The future of AI, new quantum chip
+Verdict | Good Candidate. 
 ---
 
 # The Future of AI

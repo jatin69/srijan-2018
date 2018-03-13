@@ -1,7 +1,14 @@
 ---
-writer: Jatin Rohilla - MCA 1st year
-Editor: Ashita
+Question ? | Answer ! |
+--- | --- |
+writer | Jatin
+Editor | Ashita
+Status | Review Complete
+Plagiarism | Low 7% [Report link](./plag_reports/plag_neuromorphic_computing.pdf)
+Content | NeuroMorphics, Intel chip at CES
+Verdict | Good Candidate. 
 ---
+
 
 # Neuromorphic Computing
 

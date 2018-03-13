@@ -1,6 +1,14 @@
 ---
-writer: Ashita
+Question ? | Answer ! |
+--- | --- |
+writer | Ashita
+Editor | Jatin
+Status | under Review
+Plagiarism | Low 11% [Report link](./plag_reports/plag_demon_to_digi.pdf)
+Content | -
+Verdict | Relevance to CES doubtful.
 ---
+
 
 # Demonetisation to Digitalisation 
 
