@@ -6,7 +6,7 @@ Editor | -
 Status | Review Required
 Plagiarism | Heavy 60% [Report link](./plag_reports/plag_wireless_charging.pdf)
 Content | heavy plag. Needs major update
-Verdict | probable candidate.
+Verdict | too plaged. Need update.
 ---
 
 

@@ -1,5 +1,17 @@
 # Virtual Reality
 
+---
+Question ? | Answer ! |
+--- | --- |
+original writer | Ajay Jajoo
+Additional writer | Jatin
+Editor | Jatin
+status | Writing pending
+Plagiarism | pending
+Content | pending
+Verdict | pending
+---
+
 Who thought of everything would be achievable, in coming times? You want to talk to
 someone who is far away from you, you have phone. You want to give command to a
 robot, you give and it listens to you. Want to travel some new place? What we do? We
