@@ -1,5 +1,16 @@
 ## Chatbots
 
+---
+Question ? | Answer ! |
+--- | --- |
+writer | Anjali - MCA 1st year
+Editor | Ashita
+status | Under Review 
+Plagiarism | Low 13% [Report link](./plag_reports/plag_chatbots.pdf)
+Content | pending
+Verdict | pending
+---
+
 If you have ever tried to contact a company through a representative at a call center, you know how slow and frustrating the process can be. 
 Chatbots are the latest addition to the digital marketer’s bag of tricks. Though chatbot is the buzz word from fast two years, it’s still a bit unclear how conversational UIs can be helpful in the current scenario.
 What is a chatbot? Are chatbots really that intelligent?  Can they really replace a human? And what are the trends?
