@@ -24,7 +24,7 @@ Facebook’s earlier version known as Facemash developed by Mark Zuckerberg in t
 This resilience goes well with good marketing.
 Apple suffered multiple partitions over time, but even today remains the biggest company in the world. The credit goes to Steve Jobs, the man behind Apple. He introduced the concept of personal computers in the 1980s. This was a master strategy. Being able to project computers in the late 1980s as a commodity needed by every individual and projecting them as a sign of status was indeed a great achievement. 
 
-Along with Marketing,  Innovation plays a key role.
+Along with Marketing, Innovation plays a key role.
 But Marketing won't work unless you innovate. 
 Apple is famous for its innovation and its revolutionary new technology. Apple introduced tech which was playful and user-friendly for everyone. They innovated the GUI and the mouse in Mackintosh. Mouse as an idea was available since 1960s however, was commercially viably brought under effective and user-friendly use by Jobs. Apple continues to innovate even now, which keeps it consistently at the top.
 
@@ -40,6 +40,7 @@ The stage provides not just business promotion but helps innovators and develope
 
 If Zuckerberg can go from Facemash to Facebook, Steve Jobs can go from a startup to the largest tech company, one can only imagine what these startups can do in the 21st century after gaining a global exposure at such an early stage.
 
-India as well needs such a stage to showcase the talent pool available to it. Forums and conclaves are needed for India to get
-the technological exposure which it desperately awaits, as technology is the only solution to make
-the management of an ever-growing 125 crore population seamless and free of chaos.
+India as well needs such a stage to showcase the talent pool available to it.
+Forums and conclaves are needed for India to get the technological exposure
+which it desperately awaits, as technology is the only solution to make the
+management of an ever-growing 125 crore population seamless and free of chaos.
