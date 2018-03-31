@@ -5,8 +5,8 @@ Question ? | Answer ! |
 --- | --- |
 writer | Anjali - MCA 1st year
 Editor | Ashita
-status | Under Review 
-Plagiarism | Low 13% [Report link](./plag_reports/plag_chatbots.pdf)
+status | Review Complete , proof read by Jatin
+Plagiarism | Low 9% [Report link](./plag_reports/plag_chatbots.pdf)
 Content | pending
 Verdict | pending
 ---
