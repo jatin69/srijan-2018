@@ -4,7 +4,7 @@
 Question ? | Answer ! |
 --- | --- |
 writer | Thomas Kuki Ningshen - MSc 1st year
-Editor | Ashita
+Editor | Ashita | Ajay
 Proofread | Jatin
 status | Review Complete
 Plagiarism | None 0% [pdf Report ](./plag_reports/plag_sophia_v2.pdf)
