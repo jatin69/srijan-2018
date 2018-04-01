@@ -14,13 +14,11 @@ Theme for this year is `CES 2018`
 5. health sensors
 6. Neuromorphic computing
 7. rollable LED
-8. sophia
-9. technocratic-entrepreneurialism
-10. The future of AI
-
-#### under construction 
-1. VR
-2. smart home devices
+8. smart home devices
+9. sophia
+10. technocratic-entrepreneurialism
+11. The future of AI
+12. Virtual Reality
 
 ## magazine-content
 
