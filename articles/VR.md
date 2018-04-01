@@ -6,64 +6,32 @@ Question ? | Answer ! |
 original writer | Ajay Jajoo
 Additional writer | Jatin
 Editor | Jatin
-status | Writing pending
-Plagiarism | pending
-Content | pending
-Verdict | pending
+status | Writing & Review complete, proofread by ashita
+Plagiarism | None 0% [Report link](./plag_reports/plag_VR.pdf)
+Content | tech > V tech > VR > desining > Uses > CES 2018 HTC Vive Pro
+Verdict | Good Candidate. HD image included
 ---
 
-Who thought of everything would be achievable, in coming times? You want to talk to someone who is far away from you, you have phone. You want to give command to a robot, you give and it listens to you. Want to travel some new place? What we do? We board a bus, train, or plane to go to some new place. But what if, world is on our feet.
-What if the place you want to visit can be visited by remaining at the same place. You can still feel the outside world by being at same place. Yes, we here are talking about - Virtual Reality.
+The reality is often far more interesting than fiction. In the past, Who would have imagined the technology that we have so easily accessible today? 
+Do you want to talk to someone far away? You have your mobile phone. Do you want to meet them? You have your car.
+But what if, you can meet them virtually, without ever leaving your home. And not just meet, experience their company, visit their house, go to places with them. What if you could explore the surface of Mars? Swim with dolphins? Fly a fighter jet?
 
-In previous times we were in era of 2D. Soon we became more experienced and now as
-advancement of technology we came to time of 3D. We have even gotten into 5D space.
-Where we deal with time and space. 7d is just about near; Soon that will be
-accomplished too.
+Welcome to Virtual Reality.
+Virtual Reality is a fully immersive computer-simulated environment. VR is supposed to transpose the user from one place to another. 
+One of the most popular ways to experience virtual reality is through headsets. VR Headset devices use a stereoscopic display to make what we see 3-dimensional and to give depth to the image we are looking at. However, to be fully immersive, and truly change our perception of reality, there has to be a certain level of virtual interactivity. We should be able to freely navigate in the virtual world, so we don't feel like just a 3D movie.
 
-The term itself defines the reality which is virtual not real completely. The definition of
-virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The
-definition of ‘virtual’ is near and reality is what we experience as human beings. So the
-term ‘virtual reality’ basically means ‘near-reality’.
+But how do designers create a virtual environment?
+Our brain expands on our past experience to create rules by which we translate the world. For instance, the sky discloses us which path is up. 
+Shadows disclose to us where light is originating from. 
+The relative size of things reveals us, which one is far away from us. Shading and texture ought to enable us to decide its deepness and
+separation. These rules enable our brain to work all the more proficiently.
+VR designers take these standards and attempt to give a similar data to our mind in the virtual world.
 
-We all have learnt that we have five senses: taste, touch, smell, sight and hearing.
-These are most common sense organs. But humans have many more sense organs,
-sense of balance and some sensory information by our brains ensures that we have a
-rich flow of information from the environment to our minds.
+VR was initially implemented in gaming. This gave FPS games a new level of interactivity. But Virtual Reality has a lot of practical purposes outside of gaming as well. It has been used for training simulators for soldiers, pilots, surgical training. Scientists are investigating whether VR can change social states of mind by helping an individual see the world from an alternate individual's perspective.
 
-Our whole experience of the truth is essentially a combination of sensory information
-and our brains sense-making mechanisms for that information. It makes sense at that
-point, when we think of some information and our senses can present that information,
-our view of reality would likewise change because of it. You would be given a rendition
-of reality that isn&#39;t generally there, yet from your point of view it would be seen as real
-and actual. Something we would allude to as a virtual reality.
-We have many applications of virtual Reality in various fields. Some are Virtual Reality in
-the Military, Education, Healthcare, Entertainment, Heritage, Business, Engineering,
-Scientific Visualisation etc.
+In CES 2018, HTC announced a new high-resolution VR headset - Vive Pro. 
+The HTC Vive Pro offers an exceptional upgrade to the original VR hardware.
+A dual-OLED display with a resolution of 2880x1600. The crisp resolution will negative one of the complaints about VR headsets - reading small text. 
+One would think that the increased resolution might have increased the lag in the headset. But No, the Vive Pro worked exactly as it should. With integrated headphones, it is supposedly better than the previous market leader, Oculus Rift. Nevertheless, the future of VR is bright, and its launch at CES implied that it'll soon be accessible to everyone. 
 
-Today, the interaction between VR and the brain has led to applications in health and
-medicine, including treatment of post-traumatic stress disorder, surgical training, and
-physical therapy. Scientists are even investigating whether VR can change social states
-of mind by helping individual see the world from an alternate individual&#39;s perspective.
-
-Virtual reality (VR) innovations play with our faculties to transport us to any world that we
-can envision. How do VR situations persuade our cerebrum to take us to these better
-and different places? How does our mind, thusly, respond as we investigate a virtual
-world?
-
-How to create a virtual environment?
-Our brain expands on our past experience to create &quot;rules&quot; by which to translate the world.
-How to see the world. How to deal with it and reality of the world. For instance, the sky
-discloses us which path is up. Shadows disclose to us where light is originating from. The
-relative size of things reveals us, which one is far away from us. These rules enable our brain
-to work all the more proficiently.
-VR designers take these standards and attempt to give a similar data to our mind in the virtual
-world. In a viable virtual condition, moving articles ought to take after our desires of the laws
-of material science. Shading and texture ought to enable us to decide its deepness and
-separation. Some of the time, when the virtual prompts don&#39;t exactly coordinate our
-cerebrum&#39;s desires, we can feel perplexed or disgusted. Since the human mind is substantially
-more perplexing than even the most refined PC, scientists are as yet endeavouring to
-comprehend which signs are most important to organize in VR.
-AJAY JAJOO
-M.Sc. CS II Year
-DEPARTMENT OF COMPUTER SCIENCE
-UNIVERSITY OF DELHI
+![Vive Pro](./img/VR-1.jpg)
