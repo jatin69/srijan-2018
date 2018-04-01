@@ -18,7 +18,7 @@ Chatbots are the latest addition to the digital marketer’s bag of tricks. Thou
 ## What is a Chatbot?
 
 A chatbot is a conversational interface, infused with the artificial intelligence, cognitive abilities and the power of natural language processing. In simple words, chatbots are computer programs that include AI components and have the ability to converse with a user via messages or speech. 
-"Bots are the new apps that will fundamentally revolutionize how computing is experienced by everybody" - declared Microsoft CEO Satya Nadella in 2016, and they are considered to be one of the breakthrough technologies of 2016 and are still trending in top technologies. A chatbot interacts with the user for a number of purposes like customer service, providing quick assistant and information, analysing the huge amount of data and getting customer insights and feedback.
+"Bots are the new apps that will fundamentally revolutionize how computing is experienced by everybody" - declared Microsoft CEO Satya Nadella in 2016, and they are considered to be one of the breakthrough technologies of 2016 and are still trending in top technologies. A chatbot interacts with the user for a number of purposes like customer service, providing quick assistant and information, analyzing the huge amount of data and getting customer insights and feedback.
 
 ## Trends
 
@@ -35,16 +35,15 @@ Messaging platforms have seen a rapid growth in active users than social media i
 
 ### Customer engagement as E-commerce shopping assistants
 
-E-commerce offers great opportunities for experimenting with chatbots. From dealing with basic queries to complex shopping assistants, the industry is very receptive to chatbots and associated technologies. eBay has developed its bot to operate as a shopping assistant which operates via Facebook Messenger and  helps in suggesting items based on customer's preferences. 
+E-commerce offers great opportunities for experimenting with chatbots. From dealing with basic queries to complex shopping assistants, the industry is very receptive to chatbots and associated technologies. eBay has developed its bot to operate as a shopping assistant which operates via Facebook Messenger and helps in suggesting items based on customer's preferences. 
 
 ### Chatbots in Data Analytics by gaining customer insights
 
-Data never sleeps and with the increase in social messaging, humongous amount of data is being generated every second. Chatbots are being used to analyse the type of questions asked by the customers and Companies are further using this to understand their customers' preferences. The advances in Machine learning and AI techniques enable the chatbots to automate the process and improve themselves by learning from previous conversations.
+Data never sleeps and with the increase in social messaging, humongous amount of data is being generated every second. Chatbots are being used to analyze the type of questions asked by the customers and Companies are further using this to understand their customers' preferences. The advances in Machine learning and AI techniques enable the chatbots to automate the process and improve themselves by learning from previous conversations.
 
 ### But are these chatbots really that intelligent?
 
 How can one define the intelligence of a chatbot? Are these bots artificially intelligent? 
-Definitely, chatbots are intelligent enough as they are able to process user needs. Their intelligence lies in the ability to handle any  conversation with ease and responding like a human, which is primarily done using NLP (Natural Language Processing) and AIML (Artificial Intelligence Markup Language).
+Definitely, chatbots are intelligent enough as they are able to process user needs. Their intelligence lies in the ability to handle any conversation with ease and responding like a human, which is primarily done using NLP (Natural Language Processing) and AIML (Artificial Intelligence Markup Language).
 
 In the era of marketing and business, where customer service is a key area, modern chatbots can prove to be of utmost importance by giving a faster solution to the customers' queries. As we move into 2018, chatbots will continue to be at the talking point of the business world, opening new realms of customer engagement, providing a more seamless experience and human-like performance.
-

@@ -15,8 +15,8 @@ Drones, also known as an Unmanned Aerial Vehicle (UAV), is an aircraft without a
 
 Drones have been most commonly associated with military, traffic and weather monitoring and now, they have stepped into other areas of human life. They can change the way in which things and people are transported, deliver food and medicine to the people who need it and can also help in search and rescue operations. 
 In 2013, Amazon had announced its idea of using drones for delivery in the future, and now this idea is not far from becoming a reality! 
-The first drones were built during the First World War which were used for target practice and training. Then, Drones began to be deployed for other roles such as acting as decoys in combat as well as for launching missiles against fixed targets. Now, the focus is on monitoring climate change, carrying out search operations after a natural disaster, photography, delivering goods, surveillance in areas where troops cannot safely go and monitoring crops using drones. Because of the ability of these miniature flying objects to take over the world, Drones have been a dominant topic in CES since 2016. This year at CES, after the first day ended, Intel launched
-its fleet of 250 shooting star drones in the sky. The fleet was programmed using Intel's animation software, and the entire show was controlled using a single pilot. That's a milestone in itself. The idea was to use sky as a 3D canvas and show the world an amalgamation of technology and art.
+The first drones were built during the First World War and were used for target practice and training. Then, Drones began to be deployed for other roles such as acting as decoys in combat as well as for launching missiles against fixed targets. Now, the focus is on monitoring climate change, carrying out search operations after a natural disaster, photography, delivering goods, surveillance in areas where troops cannot safely go and monitoring crops using drones. Because of the ability of these miniature flying objects to take over the world, Drones have been a dominant topic in CES since 2016. This year at CES, after the first day ended, Intel launched
+its fleet of 250 shooting star drones in the sky. The fleet was programmed using Intel's animation software, and the entire show was controlled using a single pilot. That's a milestone in itself. The idea was to use the sky as a 3D canvas and show the world an amalgamation of technology and art.
 
 Now, let’s look at some of the exciting drones.
 
@@ -33,4 +33,4 @@ It is an airborne drone that can move across the surface of a pond or lake and t
 It is a toy drone that both kids and adults would love to fly. It packs a boatload of features and functionalities like its 360 degree camera, Intel vision processing chip, flight stabilization and a decent battery life.  
 
 ## YUNEEC TYPHOON H+
-It is a must have device for those who are serious about drone photography. It boasts a 20 MP sensor in its camera, a high aperture lens and the ability to record a 4K video at 60 FPS with automatic obstacle avoidance.
+It is a device for those who are serious about drone photography. It boasts a 20 MP sensor in its camera, a high aperture lens and the ability to record a 4K video at 60 FPS with automatic obstacle avoidance.
