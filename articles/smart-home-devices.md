@@ -7,14 +7,13 @@ writer | Lakshay
 Editor | Jatin / Ashita
 Status | Review pending
 Plagiarism | None 0% [Report link](./plag_reports/plag_5G.pdf)
-Content | 
-Verdict | 
+Content | SMART DEVICES > AMAZON ALEXA > GOOGLE HOME
+Verdict | GOOD CANDITATE
 ---
 
 Building an ingenious lifestyle begins with developing a smarter environment. It is believed that human speech evolution took around 2 million years, however, it took less than a century for computers to understand human language. Today, with just a touch, a word or even a gesture, we can control almost any device. All the electronic products are now becoming a part of this vastly connected world. Thus, the amount of data that is being generated is gargantuan! 
 
-According to a report from IBM Marketing Cloud, in last two years, 2.5 quintillion bytes of data is being generated every day, which contributes to 90% of the data present in the world. For all these mind-boggling and overwhelming quantity of data, Internet of Things (IoT) is to be blamed. Although, IoT, big data, Artificial Intelligence (AI), and Machine Learning (ML) are some of the buzzwords of the century.
-Amalgamation of these emerging technologies has led to the birth of smart home devices.
+According to a report from IBM Marketing Cloud, in last two years, 2.5 quintillion bytes of data is being generated every day, which contributes to 90% of the data present in the world. For all these mind-boggling and overwhelming quantity of data, Internet of Things (IoT) is to be blamed. Although, IoT, big data, Artificial Intelligence (AI), and Machine Learning (ML) are some of the buzzwords of the century, amalgamation of these emerging technologies has led to the birth of smart home devices.
 
 ![Smart Home Devices](./img/smart-home-devices.png)
 
