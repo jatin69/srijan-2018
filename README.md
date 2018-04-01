@@ -17,7 +17,10 @@ Theme for this year is `CES 2018`
 8. sophia
 9. technocratic-entrepreneurialism
 10. The future of AI
-11. VR
+
+#### under construction 
+1. VR
+2. smart home devices
 
 ## magazine-content
 
