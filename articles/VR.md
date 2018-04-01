@@ -9,7 +9,7 @@ Editor | Jatin
 status | Writing & Review complete, proofread by ashita
 Plagiarism | None 0% [Report link](./plag_reports/plag_VR.pdf)
 Content | tech > V tech > VR > desining > Uses > CES 2018 HTC Vive Pro
-Verdict | Good Candidate. HD image included
+Verdict | Good Candidate. HD image included. One Page article. Adjust image at top or something.
 ---
 
 The reality is often far more interesting than fiction. In the past, Who would have imagined the technology that we have so easily accessible today? 
