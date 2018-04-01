@@ -5,7 +5,8 @@ Question ? | Answer ! |
 --- | --- |
 writer | Adib - Msc 1st year
 Editor | Jatin
-Status | Almost Complete, proof read by Ashita
+Proofread | Ashita
+Status | Almost Complete
 Plagiarism | None 0% [Report link](./plag_reports/plag_technocratic.pdf)
 Content | The Big 5 > journey > startups > showcase > CES > India
 Verdict | Good candidate.

@@ -5,10 +5,11 @@ Question ? | Answer ! |
 --- | --- |
 writer | Anjali - MCA 1st year
 Editor | Ashita
-status | Review Complete , proof read by Jatin
+Proofread | Jatin
+status | Review Complete
 Plagiarism | Low 9% [Report link](./plag_reports/plag_chatbots.pdf)
-Content | pending
-Verdict | pending
+Content | chatbot > emerging trends
+Verdict | Good Candidate
 ---
 
 If you have ever tried to contact a company through a representative at a call center, then you know how slow and frustrating this process can be. 
