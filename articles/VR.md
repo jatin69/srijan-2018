@@ -12,13 +12,8 @@ Content | pending
 Verdict | pending
 ---
 
-Who thought of everything would be achievable, in coming times? You want to talk to
-someone who is far away from you, you have phone. You want to give command to a
-robot, you give and it listens to you. Want to travel some new place? What we do? We
-board a bus, train, or plane to go to some new place. But what if, world is on our feet.
-What if the place you want to visit can be visited by remaining at the same place. You
-can still feel the outside world by being at same place. Yes, we here are talking about
-Virtual Reality.
+Who thought of everything would be achievable, in coming times? You want to talk to someone who is far away from you, you have phone. You want to give command to a robot, you give and it listens to you. Want to travel some new place? What we do? We board a bus, train, or plane to go to some new place. But what if, world is on our feet.
+What if the place you want to visit can be visited by remaining at the same place. You can still feel the outside world by being at same place. Yes, we here are talking about - Virtual Reality.
 
 In previous times we were in era of 2D. Soon we became more experienced and now as
 advancement of technology we came to time of 3D. We have even gotten into 5D space.
