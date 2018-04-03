@@ -23,8 +23,7 @@ A chatbot is a conversational interface, infused with the artificial intelligenc
 ## Trends
 
 ### Provides 24*7 assistance and service
-
-Chatbots provides a quick response instead of delayed automated answers. They hold immense potential in different verticals ranging from marketing, sales to customer retention and engagement. 
+In comparison to a delayed automated answers, chatbots provide a quick response. They hold immense potential in different spheres of  marketing, sales, customer retention and engagement. 
 
 ### Support for Chatbots by Facebook and Microsoft
 
