@@ -4,7 +4,7 @@ Question ? | Answer ! |
 writer | Jatin
 Editor | Ashita
 Status | Review Complete
-Plagiarism | Low 7% [Report link](./plag_reports/plag_neuromorphic_computing.pdf)
+Plagiarism | None 0% [Report link](./plag_reports/plag_neuromorphic_computing_v2.pdf)
 Content | NeuroMorphics, Intel chip at CES
 Verdict | Good Candidate. 
 ---
@@ -29,14 +29,17 @@ But you may say what's new in this, we have had robots capable of navigation and
 The difference is, we didn't program it to avoid walls; we didn't program it to navigate the room. All we did was digitalize the worm's brain. All of this was actually done by the digital brain itself and this was all just software with a few sensors.
 
 # Neuromorphic Computing 
-Artificial intelligence software has increasingly begun to imitate the brain. Algorithms such as Google’s automatic image-classification use networks of artificial neurons to perform complex tasks. But because the traditional computer hardware was not designed to run brain-like algorithms, these machine-learning models require much more computing power than the human brain does. 
-“There must be a better way to do this because nature h\as figured out a better way to do this,” says Michael Schneider, a physicist at the NIST.  
-Interestingly, this year at CES, Intel showcased its research in neuromorphic computing. The Tech Giant has developed a first of its kind self-learning neuromorphic chip code-named as Loihi, which uses an asynchronous Spiking Neural Network. The chip is based on a new computing paradigm inspired by how neurons work in a human brain and scrape off the traditional computing architecture consisting of CPU and memory. The chip gets smarter over time and does not need to be trained in the traditional way with a huge data set. 
+The new age Artificial intelligence algorithm are greatly based on imitating the brain structure. Google's famous image classification algorithm also use a sophisticated network of artificial neurons. But there's a major problem.
+Our traditional hardware was not made to handle brain like algorithms. These new algorithms required much more power and efficiency than that provided by our classic hardware.
 
-The key difference between neuromorphic and traditional computing is that they process data in an analog, rather than a digital fashion. This means that instead of sending information in a series of 0/1, they vary the intensity of these signals, just like our brain’s synapses do. This means that more information can be coded into each signal by varying the intensity, drastically reducing the amount of power needed. 
-This makes the chip up to 1,000 times more energy-efficient than general purpose computing required to train any neural network. The chip serves as hardware counterpart to the Deep Neural Networks and is meant to make computations faster. 
+> “There must be a better way to do this because nature has figured out a better way to do this,” - Michael Schneider, physicist, NIST.  
+
+Interestingly, this year at CES, Intel showcased its research in neuromorphic computing. The Tech Giant launched a first of its kind neuromorphic chip code-named as Loihi, which uses an asynchronous Spiking Neural Network. The chip is based on a new computing paradigm inspired by how neurons work in a human brain and scrape off the traditional computing architecture consisting of CPU and memory. This chip gets self trained over time unlike classic machine learning models which need huge data for training.
 
 
-The difference between classical systems and neuromorphic ones is just like the difference between Morse code and speech. The former encodes data using just dots, and dashes, making meanings easy to understand but the message is lengthy to communicate. Speech, however, can be difficult to interpret but each individual utterance holds much more data. Thus, the latter is very efficient. 
+Neuromorphic computing treats data in an analog fashion. Instead of sending information as zeroes and ones, we send information as an analog signal.
+Each signal can have varied intensity, and thus have more than two values. As a result more information can be sent with same effort. This greatly reduces the amount of power needed by neuromorphic computing systems. The chip is said to be 1000 times more energy efficient than the traditional silicon based chips. The chip serves as hardware counterpart to the Deep Neural Networks and is meant to make computations faster. 
+
+The difference between classical systems and neuromorphic ones is just analogous to the difference between a Morse coded message and speech. The former encodes data using just dots, and dashes, making meanings easy to understand but the message is lengthy to communicate. Speech, however, can be difficult to interpret but each individual utterance holds much more data. Thus, the latter is very efficient. 
 
 Thus, Neuromorphic Computing is the new power wave in the field of Artificial Intelligence and it can probably compute faster than the human brain.
