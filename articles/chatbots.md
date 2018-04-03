@@ -17,7 +17,7 @@ Chatbots are the latest addition to the digital marketer’s bag of tricks. Thou
 
 ## What is a Chatbot?
 
-A chatbot is a conversational interface, infused with the artificial intelligence, cognitive abilities and the power of natural language processing. In simple words, chatbots are computer programs that include AI components and have the ability to converse with a user via messages or speech. 
+A chatbot, also known as conversational agent, is a computer program that mimics a human conversation and is infused with AI, natural language processing and cognitive abilities. In simple words, chatbots  have the ability to converse with a user via messages or speech. 
 "Bots are the new apps that will fundamentally revolutionize how computing is experienced by everybody" - declared Microsoft CEO Satya Nadella in 2016, and they are considered to be one of the breakthrough technologies of 2016 and are still trending in top technologies. A chatbot interacts with the user for a number of purposes like customer service, providing quick assistant and information, analyzing the huge amount of data and getting customer insights and feedback.
 
 ## Trends
@@ -30,7 +30,7 @@ In comparison to a delayed automated answers, chatbots provide a quick response.
 One of the important moves made by Facebook and Microsoft was the introduction of Messenger platform and Bot Framework for automated bots in 2016. Since then, more than 200,000 third-party bots have been introduced, from shopping assistants to bots for conversation, marketing, and other purposes.
 
 ### From social networking to social messaging
-Messaging platforms have seen a rapid growth in active users than social media in 2017 and the social messenger applications are now bigger than social networks. With the rise of messaging apps and chatbots, the way we are using social media to interact has changed and is driving chatbot marketing.
+Messaging platforms have seen a rapid growth in active users than social media in 2017 and the social messenger applications are now bigger than social networks. Use of social media to interact with others has changed drastically as chatbots and messaging apps have been increasing. Moreover, rise in the number of apps is also the main driver for chatbot marketing.
 
 ### Customer engagement as E-commerce shopping assistants
 
@@ -45,4 +45,4 @@ Data never sleeps and with the increase in social messaging, humongous amount of
 How can one define the intelligence of a chatbot? Are these bots artificially intelligent? 
 Definitely, chatbots are intelligent enough as they are able to process user needs. Their intelligence lies in the ability to handle any conversation with ease and responding like a human, which is primarily done using NLP (Natural Language Processing) and AIML (Artificial Intelligence Markup Language).
 
-In the era of marketing and business, where customer service is a key area, modern chatbots can prove to be of utmost importance by giving a faster solution to the customers' queries. As we move into 2018, chatbots will continue to be at the talking point of the business world, opening new realms of customer engagement, providing a more seamless experience and human-like performance.
+In the era of digital marketing and business, chatbots manifest to be of immense importance by quickly responding to the customers' queries. As we move into 2018, chatbots will continue to be at the talking point of the business world, opening new realms of customer engagement, providing a more seamless experience and human-like performance.
