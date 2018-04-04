@@ -1,6 +1,6 @@
 # Index
 
-- Front Cover Page
+- Front Cover Page 
 - About Srijan                      - VB mam's Foreword
 - team page                         - team forward
 
@@ -21,8 +21,7 @@
 - heard of docker
 - time travel
 - technocratic
-- 5G                                  - Expressions page
-- POEM - Alfaaz                       - one more poem 
+- 5G                              - POEM - Alfaaz       
 - Life at DUCS
 - ref                     - sponsors
 - Back cover
