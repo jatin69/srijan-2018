@@ -9,7 +9,6 @@ Content | NeuroMorphics, Intel chip at CES
 Verdict | Good Candidate. 
 ---
 
-
 # Neuromorphic Computing
 
 Humans are the smartest species and we soon realized that evolution is a far better inventor than us, and natural selection has highlighted the best of its inventions. So, we started mimicking the nature around us.

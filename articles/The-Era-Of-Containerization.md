@@ -4,17 +4,18 @@ Question ? | Answer ! |
 writer | Jatin
 Editor | Jatin
 status | Review Complete
-Plagiarism: Low 22% [Report link](./plag_reports/plag_era_of_containerization.pdf)
+Plagiarism: None 0% [Report link](./plag_reports/plag_era_of_containerization_v2.pdf)
 Content: Journey From virtualization to Containerization
-Verdict: Plag needs work. Relevance doubtful.
+Verdict: Probable candidate. Relevance doubtful. 
 ---
 
 # The Era of Containerization
 
 You must have come across virtual machines and probably used one for running a Linux machine inside windows. The good old days of virtual box and VMware when running a virtual machine needed considerable hardware resources, and once you switch to the Guest OS, you could barely do anything on the Host OS. Multiple VMs running together was a far stretched dream.
 
-In the early days, virtual machines served the purpose of stable development environment over a team. A virtual machine with all the required software was made and passed on to each team member. Download the multi-gigabyte OS image that you want, install it, then download and configure the stack you’ll be working with: let’s say Apache, MySQL, PHP, then install some libraries, install an FTP server. Once this is all done, copy the code over, import the database, configure Apache’s virtual host, restart and cross your fingers. Pretty easy, right?
-This set up was an overhead. Even for a standard web development environment, the devs had to go through all this pain. We needed something better.  
+In the early days, virtual machines served the purpose of stable development environment over a team. A virtual machine with all the required software was made and passed on to each team member. 
+A multi gigabyte Operating system image was first installed, then all other needed softwares were configured, let's say, the standard web development package tools were downloaded and installed, a few libraries integrated, the FTP server configured, database setup. All this was done for one system. Then copy over the virtual machine file, and hope that it works well on other systems as well. Pretty easy, right?
+This set up was an overhead. Even for a standard web development environment, the devs had to go through all this. We needed something better.  
 
 ## Enter vagrant.
 Vagrant brought the concept of boxes, which were VM images with standard dev environments pre-installed. Setting up the new tech stack was now a command away. Just find the right box, and start working.  Vagrant leverages a declarative configuration file which describes all your software requirements. Instead of passing around VM's between team members, this config file could be version controlled, everyone could just pull and get ready to work.  Starting a configured VM was as easy as typing `vagrant up`.
@@ -30,7 +31,7 @@ Docker used the fact that we don't really want an OS. All we want is a dev envir
 Like vagrant boxes, Docker also utilizes the concept of centrally hosted images. Docker Hub is the play store equivalent for dev environments. You find `images` which fit your need, pull them, and then spin out containers from them. Containers are like runtimes of the images. so anything you do in the container gets lost as soon as you take them down. But that's not what we wanted, right? For this, Docker gives us Volumes, which are just shared folders between host OS and container. This gives us data persistence over container runs. Any changes made from within the container are saved to this volume.
 
 Docker utilizes AuFS.
-AuFS is a layered file system, so you can have a read-only part and a write part which are merged together. The common parts of the operating system can be marked as read-only and shared amongst all of your containers and each container can be given its own mount for writing.
+AuFS is a kind of union file system. The read-only part, which is common for all the containers is merged together with the write part, which is separate for each container. Thus, we only need write space if we want to add additional containers.
 
 ---
 Requirement: 1000 VMs
@@ -50,13 +51,11 @@ Each image serving only one need, may it be database, or server, and so on.
 This `one process per container` approach gives us horizontal scalability. Too many server requests? Need one more apache server? Just spin up one more container from the same image. It keeps the containers light, and in a state of failure, another one with same specs could be brought up within seconds.
 This unveils the real power of Docker. Hundreds of containers, serving from the same image.
 
-But, what if your application keeps growing? Let’s say you keep adding more and more functionality until it becomes a massive monolith that is almost impossible to maintain and eats way too much CPU and RAM. 
+But, what if your application keeps growing? Let’s say you keep adding features to the same codebase until it becomes a so big that is almost impossible to maintain and eats way too much RAM and CPU resources. 
 What we do is split it into smaller chunks, each responsible for one specific task, maintained by a team, aka. microservices. 
-We can run multiple instances of each microservice spanning across multiple servers to make it highly available in a production environment. We now have to deal with Load Balancing, storage management, Health checks, Auto-[scaling/restart/healing] of containers and nodes. Orchestration tools make this possible.
+We can set up multiple instances of these microservices using containers to make it readily available in the production environment. We now have to deal with Load Balancing, storage management, Health checks, Auto-[scaling/restart/healing] of containers and nodes. Orchestration tools make this possible.
 
 ### Container Orchestration
 
-Container Orchestration refers to the automated arrangement, coordination, and management of software containers. Kubernetes, AWS ECS, and Docker Swarm are some of the leaders in Orchestration. Kubernetes has the largest community and is the most popular.It is based on Google's experience of running workloads at a huge scale in production over the past 15 years. 
-The availability of such tools makes the ideology behind containers much more powerful and practical for real-life applications. Self Healing of failed nodes, load balancing, scaling, updates, rollbacks, you name it. 
-
-Next comes the Era of Immutable infrastructure. Look around. The world is changing. 
+Container Orchestration refers to the automated arrangement, coordination, and management of software containers. Kubernetes, AWS ECS, and Docker Swarm are some of the leaders in Orchestration. Kubernetes has the largest community and is the most popular because it is built on Google's experience of a busy production environment.
+The availability of such tools makes the ideology behind containers much more powerful and practical for real-life applications. Self Healing of failed nodes, load balancing, scaling, updates, rollbacks, you name it.
