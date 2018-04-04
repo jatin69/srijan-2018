@@ -23,7 +23,7 @@ A chatbot, also known as conversational agent, is a computer program that mimics
 ## Trends
 
 ### Provides 24*7 assistance and service
-In comparison to a delayed automated answers, chatbots provide a quick response. They hold immense potential in different spheres of  marketing, sales, customer retention and engagement. 
+In comparison to the delayed automated answers, chatbots provide a quick response. They hold immense potential in different spheres of  marketing, sales, customer retention and engagement. 
 
 ### Support for Chatbots by Facebook and Microsoft
 
