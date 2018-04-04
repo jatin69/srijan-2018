@@ -29,16 +29,15 @@ But you may say what's new in this, we have had robots capable of navigation and
 The difference is, we didn't program it to avoid walls; we didn't program it to navigate the room. All we did was digitalize the worm's brain. All of this was actually done by the digital brain itself and this was all just software with a few sensors.
 
 # Neuromorphic Computing 
-The new age Artificial intelligence algorithm are greatly based on imitating the brain structure. Google's famous image classification algorithm also use a sophisticated network of artificial neurons. But there's a major problem.
+The new age Artificial intelligence algorithms are greatly based on imitating the brain structure. Google's famous image classification algorithm also uses a sophisticated network of artificial neurons. But there's a major problem.
 Our traditional hardware was not made to handle brain like algorithms. These new algorithms required much more power and efficiency than that provided by our classic hardware.
 
 > “There must be a better way to do this because nature has figured out a better way to do this,” - Michael Schneider, physicist, NIST.  
 
-Interestingly, this year at CES, Intel showcased its research in neuromorphic computing. The Tech Giant launched a first of its kind neuromorphic chip code-named as Loihi, which uses an asynchronous Spiking Neural Network. The chip is based on a new computing paradigm inspired by how neurons work in a human brain and scrape off the traditional computing architecture consisting of CPU and memory. This chip gets self trained over time unlike classic machine learning models which need huge data for training.
-
+Interestingly, this year at CES, Intel showcased its research in neuromorphic computing. The Tech Giant launched a first of its kind neuromorphic chip code-named as Loihi, which uses an asynchronous Spiking Neural Network. The chip is based on a new computing paradigm inspired by how neurons work in a human brain and scrape off the traditional computing architecture consisting of CPU and memory. This chip gets self trained over time, unlike classic machine learning models which need huge data for training.
 
 Neuromorphic computing treats data in an analog fashion. Instead of sending information as zeroes and ones, we send information as an analog signal.
-Each signal can have varied intensity, and thus have more than two values. As a result more information can be sent with same effort. This greatly reduces the amount of power needed by neuromorphic computing systems. The chip is said to be 1000 times more energy efficient than the traditional silicon based chips. The chip serves as hardware counterpart to the Deep Neural Networks and is meant to make computations faster. 
+Each signal can have a varying intensity and thus have more than two values. As a result, more information can be sent with the same effort. This greatly reduces the amount of power needed by neuromorphic computing systems. The chip is said to be 1000 times more energy efficient than the traditional silicon based chips. The chip serves as hardware counterpart to the Deep Neural Networks and is meant to make computations faster. 
 
 The difference between classical systems and neuromorphic ones is just analogous to the difference between a Morse coded message and speech. The former encodes data using just dots, and dashes, making meanings easy to understand but the message is lengthy to communicate. Speech, however, can be difficult to interpret but each individual utterance holds much more data. Thus, the latter is very efficient. 
 
