@@ -1,5 +1,5 @@
 # Index
-
+```
 - Front Cover Page 
 - About Srijan                      - VB mam's Foreword
 - team page                         - team forward
@@ -10,11 +10,11 @@
 - Smart home device 
 - neuromorphic
 - future of AI
- 
------------- PIN PAGE : doodles --------------------
-
 - sophia
 - DRONES
+
+------------ PIN PAGE : doodles --------------------
+
 - rollable LED
 - AI in healthcare
 - health sensors
@@ -25,3 +25,4 @@
 - Life at DUCS
 - ref                     - sponsors
 - Back cover
+```
