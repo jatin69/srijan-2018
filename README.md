@@ -7,22 +7,22 @@ Theme for this year is `CES 2018`
 
 ## Articles Ready
 
-1. 5G Footprint
-2. AI aid in healthcare
-3. chatbots
-4. drones
-5. Neuromorphic computing
-6. rollable LED
-7. smart home devices
-8. sophia
-9. technocratic-entrepreneurialism
-10. heard of docker
-11. The future of AI
-12. Virtual Reality
+1. 5G Footprint - 1 page
+2. AI aid in healthcare - 2 page
+3. chatbots - 2 page
+4. drones - 2 page
+5. Neuromorphic computing - 2 page
+6. rollable LED - 2 page
+7. smart home devices - 2 page
+8. sophia - 2 page
+9. technocratic-entrepreneurialism  - 2 page
+10. heard of docker - 2 page
+11. The future of AI - 2 page
+12. Virtual Reality - 1 Page
+13. time travel - 2 page
+14. health sensors - 2 page
 
 #### indefinite - plag issue
-1. health sensors
-2. time travel
 
 #### Stock
 
