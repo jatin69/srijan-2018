@@ -21,8 +21,8 @@
 - heard of docker
 - time travel
 - technocratic
-- 5G                              - POEM - Alfaaz       
+- 5G                                - POEM - Alfaaz       
 - Life at DUCS
-- ref                     - sponsors
+- ref                               - sponsors
 - Back cover
 ```
