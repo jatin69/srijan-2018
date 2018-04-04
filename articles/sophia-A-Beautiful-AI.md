@@ -7,15 +7,16 @@ writer | Thomas Kuki Ningshen - MSc 1st year
 Editor | Ashita | Ajay
 Proofread | Jatin
 status | Review Complete
-Plagiarism | None 0% [pdf Report ](./plag_reports/plag_sophia_v2.pdf)
+Plagiarism | None 0% - Grammarly Pro
 Content | Sophia > features > social figure > expert opinions > future 
 verdict | Good Candidate.
 ---
-The world has witnessed quite an advancement in the field of AI over the years! We have seen the concept of driverless cars becoming a reality. Google’s AI system, AlphaGO just beat the world champ at one of the most complex board games in world history and in amidst of all this, an AI robot named SOPHIA, an alive machine, attended the FII 2017 where she was granted a Arabian citizenship thus, making her the first of its kind. 
+
+The world has witnessed quite an advancement in the field of AI over the years! We have seen the concept of driverless cars becoming a reality. Google’s AI system, AlphaGO just beat the world champ at one of the most complex board games in world history and in amidst of all this, an AI robot named SOPHIA, an alive machine, attended the FII 2017 where she was granted Arabian citizenship thus, making her the first of its kind. 
 
 ## FEATURES
-Sophia was created by HANSON ROBOTICS; a HONG KONG based company. She made her first public appearance in March 2016 at Texas, USA. Creator David Hanson, founder, and CEO of Hanson Robotics states that Sophia uses Artificial Intelligence (AI) along with facial recognition and visual data processing to communicate with people. She is being trained in the lab constantly to respond faster and answer complex questions with more accuracy. Cameras within her eyes along with some computer algorithms enable her to perceive her surroundings and recognize faces. It is through its collaboration with Google’s parent company, Alphabet Inc.’s voice recognition system, that Sophia is able to process speech and have conversations. 
-In Jan 2018 Sophia was upgraded with a pair of functional legs and the ability to walk. And that is not all, she can make 62 facial expressions in all. I don’t remember anyone capable of doing that. Can you?
+HANSON ROBOTICS created Sophia; a HONG KONG based company. She made her first public appearance in March 2016 at Texas, USA. Creator David Hanson, founder, and CEO of Hanson Robotics states that Sophia uses Artificial Intelligence (AI) along with facial recognition and visual data processing to communicate with people. She is being trained in the lab constantly to respond faster and answer complex questions with more accuracy. Cameras within her eyes along with some computer algorithms enable her to perceive her surroundings and recognize faces. It is through its collaboration with Google’s parent company, Alphabet Inc.’s voice recognition system, that Sophia can process speech and have conversations. 
+In Jan 2018 Sophia was upgraded with a pair of functional legs and the ability to walk. And that is not all; she can make 62 facial expressions in all. I don’t remember anyone capable of doing that. Can you?
 
 ## SOCIAL FIGURE
 With the state of the art features, Sophia also lives up to her assigned tasks at the global level. She is already winning hearts with the word she makes, and a robot never lies. 
@@ -31,6 +32,6 @@ Things don't seem to be favorable when it comes down to experts. Most of them wh
 Yann LeCun, Facebook’s director of artificial intelligence, totally disagrees with the AI of Sophia and even passed some controversial remarks on social media. He’s one of the few people who disagree with Sophia’s popularity.
 
 ## OTHER BOTS
-Apart from Sophia, Hanson Robotics has created other robots which they refer to as Sophia’s siblings. Albert Einstein HUBO, Alice, Han, Jules are some of the notable ones. AIBO is another example developed by SONY. Structured and programmed particularly to be a pet, you can bring this one to your home if you’re a pet lover.
+Apart from Sophia, Hanson Robotics has created other robots which they refer to as Sophia’s siblings. Albert Einstein HUBO, Alice, Han, Jules are some of the notable ones. AIBO is another example developed by SONY. Structured and programmed mainly to be a pet, you can bring this one to your home if you’re a pet lover.
 
-It’s just a start to an era where machines have started to step up unto this world. A million questions may arise for the same- some good, some bad. The aftermath truly lies on us humans, so it becomes our responsibility to not be overtaken by the machines in near future and live all the sci-fi movies of Hollywood in reality. Until then, we as an advance race, should do our bit in the progress of our respective fields and enjoy the winks coming out of a humanoid robot.
+It’s just a start to an era where machines have started to step up unto this world. A million questions may arise for the same- some good, some bad. The aftermath indeed lies on us humans, so it becomes our responsibility not to be overtaken by the machines in the near future and live all the sci-fi movies of Hollywood in reality. Until then, we as an advanced race, should do our bit in the progress of our respective fields and enjoy the winks coming out of a humanoid robot.

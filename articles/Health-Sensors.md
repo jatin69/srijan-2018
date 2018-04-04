@@ -15,8 +15,14 @@ Verdict | Good Candidate.
 Featuring Sleep Sensors
 
 The future of medical care and technology is increasingly intersecting. 
-At CES 2018, sleep was one of the major topics in fitness technology. Initially “health tech” was mostly centered on step counters, digital workout coaches, and heart-rate trackers, in the form of wearable technology like Fitbit, Garmin, and Apple watch which track sleep based on movement, heart rate, and breathing patterns. Smartwatches and fitness trackers have been using the principles of actigraphy: Monitoring your movements as you sleep with algorithms used to calculate your cycles. The less you move, the thinking goes, the deeper your sleep. But not everyone wants to sleep wearing a band. The new trend is to use “contactless” devices that can be placed near you or in your bed to track and monitor your sleep.
+The Future of healthcare and technology crossed path.
+
+At CES 2018, sleep was one of the major topics in fitness technology. Initially “health tech” was mostly centered on step counters, digital workout coaches, and heart-rate trackers, in the form of wearable technology like Fitbit, Garmin, and Apple watch which track sleep based on movement, heart rate, and breathing patterns.
+
+Smartwatches and fitness trackers have been using the principles of actigraphy: Monitoring your movements as you sleep with algorithms used to calculate your cycles. The less you move, the thinking goes, the deeper your sleep. But not everyone wants to sleep wearing a band. The new trend is to use “contactless” devices that can be placed near you or in your bed to track and monitor your sleep.
+
 The lack of sleep has been associated with health issues such as high blood pressure, diabetes and increased risk of heart attacks. 
+
 CES, this year, was focused not only on tracking your sleep, but also on helping you to improve it.  
 Let’s have a look at some of the products that were exhibited.
 

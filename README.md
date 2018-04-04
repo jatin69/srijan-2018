@@ -24,6 +24,10 @@ Theme for this year is `CES 2018`
 1. health sensors
 2. time travel
 
+#### Stock
+
+1. The era of containerization
+
 ## magazine-content
 
 Other magazine related content.

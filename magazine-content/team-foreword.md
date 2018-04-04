@@ -5,4 +5,13 @@ status: needs update
 
 # TEAM FOREWORD
 
-We, The Editorial Team, proudly present another interesting edition of our Department Magazine 'SRIJAN'. We have worked very hard and have covered some exciting topics that your geeky minds have wondered about. Our aim is not only to bring you a few articles about new technologies or all the scientific mess, of course you can google all that. Its beyond this. First and foremost, SRIJAN reflects the hardwork and team spirit of our students. Secondly, we aim at bringing you the fine thoughts of this generation on the recent technological advancements happening across the globe. Thirdly, it’s like a perfect desert for all the junior scientists to munch upon. Where would you get all this? With its carefully curated articles, SRIJAN covers topics like Artificial intelligence, 5G Technology, Facial Recognition, Wireless charging, Drones. We are sure you are already leafing through the magazine. We hope you find it as exciting as we think it is and it tickles your grey cells. 
+The Editorial Team of Srijan takes immense pleasure to present the eighth edition of our Annual tech Magazine 'SRIJAN'. 
+The world of technology is pacing so fast that even listing all these new advancements is a task in itself.
+This year we tried to capture the Consumer Electronics Show.
+CES is one stop platform to capture all the new developments in the field of tech.
+From a pool of topics, we tried to cover some of the exciting ones.
+Artificial intelligence, 5G Technology, Smart home devices, Drones, Neuromorphic Computing, Containerization, and more.
+Basically, you get all the new advancements in form of curated articles at one place. Apart from the technology, You'll find glimpses of the thoughts of this generation on the recent technological advancements happening across the globe. 
+
+Turn the page over to start the adventure.
+We hope you like it.
