@@ -4,7 +4,7 @@ Question ? | Answer ! |
 Writer | Divya Agarwal, MCA 1st year
 Editor | Jatin
 Status | Review Complete
-Plagiarism | Moderate 33% Because of Facts [Report link](./plag_reports/plag_health_sensors.pdf)
+Plagiarism | None 0% - Grammarly pro
 Content | Different Health Sensors at CES
 Verdict | Good Candidate. 
 ---
