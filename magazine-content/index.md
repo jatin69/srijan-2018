@@ -1,28 +1,28 @@
 # Index
 ```
-- Front Cover Page 
-- About Srijan                      - VB mam's Foreword
-- team page                         - team forward
+- Front Cover Page (1)
+- About Srijan     (2)                - VB mam's Foreword (3)
+- team page        (4)                - team forward      (5)
 
-- index                             - VR
+- index            (6)                - VR                (7) (P1)
 
-- Chatbots                       
-- Smart home device 
-- neuromorphic
-- future of AI
-- sophia
-- DRONES
+- Chatbots         (8-9)    (P2-P3)         
+- Smart home device(10-11)  (P4-P5)
+- neuromorphic     (12-13)  (P6-P7)
+- health sensors   (14-15)  (P8-P9)
+- sophia           (16-17)  (P10-P11)
+- DRONES           (18-19)  (P12-P13)
 
------------- PIN PAGE : doodles --------------------
+------------ PIN PAGE : doodles -------------------- (20-21) (P14-P15)
 
-- rollable LED
-- AI in healthcare
-- health sensors
-- heard of docker
-- time travel
-- technocratic
-- 5G                                - POEM - Alfaaz       
-- Life at DUCS
-- ref                               - sponsors
-- Back cover
+- rollable LED     (22-23) (P16-P17)
+- AI in healthcare (24-25) (P18-P19)
+- future of AI     (26-27) (P20-P21)
+- heard of docker  (28-29) (P22-P23)
+- time travel      (30-31) (P24-P25)
+- technocratic     (32-33) (P26-P27)
+- 5G               (34)    (P28)           - POEM - Alfaaz     (35) (P29)      
+- Life at DUCS     (36-37) (P30-P31)
+- ref              (38)    (P32)           - sponsors          (39)
+- Back cover       (40)
 ```
