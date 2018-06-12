@@ -25,8 +25,6 @@ Theme for this year is `CES 2018`
 13. time travel - 2 page
 14. health sensors - 2 page
 
-#### indefinite - plag issue
-
 #### Stock
 
 1. The era of containerization
